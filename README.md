@@ -6,7 +6,7 @@
 
 
 
-# 2_dark_app.py
+# 2_catdog_app.py
 
 AlexNet-Based GUI Classifier(Test Accuracy = 97.00%)
 
