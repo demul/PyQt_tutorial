@@ -103,7 +103,7 @@ class CatDogApp(QtWidgets.QWidget):
         # run inference session
         prediction = self.sess.run(self.prediction, feed_dict={self.X: img})
         self.string_class_name = self.label_dict[int(prediction)]
-        self.label_class_viewer.setText('class : ' + self.string_class_name)
+        self.label_class_viewer.setText('Class : ' + self.string_class_name)
 
     def resize(self, img):
         h = img.shape[0]
