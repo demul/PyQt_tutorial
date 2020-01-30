@@ -2,7 +2,8 @@
 
 # 1_dark_app.py
 
-WARNING : This Application is Extremely Dangerous and Deep and Dark.
+<span style="color:red">WARNING</span>
+ : This Application is Extremely Dangerous and Deep and Dark.
 
 
 
