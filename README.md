@@ -12,6 +12,9 @@ AlexNet-Based GUI Classifier(Test Accuracy = 97.00%)
 
 
 
+**WARNING** : Do Not Push 'DARK BUTTON' on Right Bottom Side.
+
+
 <img src="images/img1.png" width="33%" height="33%">
 
 <img src="images/img2.png" width="33%" height="33%">
